@@ -1,0 +1,11 @@
+[package]
+name = "hotkey-reproduction"
+version = "0.1.0"
+authors = ["William Volin <me@williamvolin.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+livesplit-core = "0.11.0"
+livesplit-hotkey = "0.5.0"
